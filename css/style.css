@@ -145,3 +145,9 @@ img {
   position: absolute;
   padding-top: 250px;
 }
+
+@media screen and (max-width: 425px) {
+  .typing h2 {
+    font-size: 10px;
+  }
+}
